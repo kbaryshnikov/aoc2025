@@ -1,0 +1,9 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "z3-solver": "^4.15.4"
+  }
+}
